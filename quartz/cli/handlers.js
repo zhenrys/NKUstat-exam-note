@@ -217,7 +217,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // setup remote
   execSync(
-    `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
+    `git remote show upstream || git remote add upstream https://github.com/zhenrys/quartz.git`,
     { stdio: "ignore" },
   )
 
@@ -495,7 +495,7 @@ export async function handleUpdate(argv) {
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
   console.log("Backing up your content")
   execSync(
-    `git remote show upstream || git remote add upstream https://github.com/jackyzha0/quartz.git`,
+    `git remote show upstream || git remote add upstream https://github.com/zhenrys/quartz.git`,
   )
   await stashContentFolder(contentFolder)
   console.log(
