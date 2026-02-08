@@ -4,14 +4,15 @@ title: Welcome to NKUstat-exam-note website
 
 
 
-本网站受`nku-sms-exams`启发，是由南开大学统计与数据科学学院的众多同学自发整理的历年统计与相关学科的考试试卷与复习资料汇总项目，主要收录整理在网页：xxxxxxxxxxxxx 以方便大家随时浏览。此外也同步开源至 github，欢迎使用邮件或 github投稿。
+本网站是由南开大学众多同学自发整理的历年统计与数据科学学院与相关学院的考试试卷与复习资料汇总项目，主要收录整理在网页：[https://zhenrys.github.io/NKUstat-exam-note/](https://zhenrys.github.io/NKUstat-exam-note/) 以方便大家随时浏览。此外也同步开源至 github，欢迎使用邮件或 github投稿。
 
 希望把零散而宝贵的专业学习资源以开源方式沉淀下来，方便同学集中精力于知识学习本身、互相交流、共同进步。欢迎每位同学通过投稿、纠错、补充说明等方式参与，让来者受益。
 
-- 邮件投稿请邮件联系：xxxxxxxxxxx
+- 邮件投稿请邮件联系：[zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)
 - 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！
-- 果相关资料侵犯了你的权益，请致信 xxxxxxxxxxx，我们会在第一时间处理。
+- 果相关资料侵犯了你的权益，请致信 [zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)，我们会在第一时间处理。
 - 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分版权归属内容原作者。
+- 本网站受南开大学数学科学学院试卷汇总项目启发：[https://www.zhangwp.com/share/nku-sms-exams](https://www.zhangwp.com/share/nku-sms-exams)
 
 ---
 
@@ -84,12 +85,12 @@ title: Welcome to NKUstat-exam-note website
 
 ---
 
-### 尚未有整理的选修课已加粗
+# TODO
 数学分析|
 **高等代数**|
 **概率论1**|
-数理统计 1|
-梳理统计 2|
+数理统计1|
+数理统计2|
 回归分析|
 数据采集方法|
 **运筹与优化**|
@@ -106,15 +107,18 @@ python 与大数据分析软件|
 **随机分析**|
 **生物信息学**|
 **数据可视化**|
-**深度学习**||
+**深度学习**|
 时间序列分析|
-实变函数||
+实变函数|
 **多元统计分析**|
 概率论 2|
 **泛函分析**|
 ...
+(加粗的尚未收录，期待投稿)
 
-### Contributor
+# Contribution List
+
+
 
 
 
