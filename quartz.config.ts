@@ -1,3 +1,4 @@
+//quartz.config.ts
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -8,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "NKUstat-exam-note",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,34 +24,41 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "STIX Two Text",
+        body: "STIX Two Text",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbfafb",        // 背景更接近纸白
+          lightgray: "#e9e5ea",
+          gray: "#bfb6c2",
+          darkgray: "#4d4650",
+          dark: "#231f24",
+
+          // —— 南开紫主色系 ——
+          secondary: "#701E5E",    // 主色：链接/按钮/强调
+          tertiary: "#9A5A8E",     // 次强调：轻一点的紫（hover/次级标签）
+
+          highlight: "transparent", // 选中/引用块底色（透明）
+          textHighlight: "rgba(154, 90, 142, 0.28)", // 文本高亮（更明显一点）
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#141214",
+          lightgray: "#2a252b",
+          gray: "#6f6772",
+          darkgray: "#e3dfe4",
+          dark: "#f2eef3",
+
+          // —— 南开紫主色系（暗色模式要更亮一点以保证对比） ——
+          secondary: "#D6A7CE",    // 主色：更亮的南开紫
+          tertiary: "#B678AA",
+
+          highlight: "transparent",
+          textHighlight: "rgba(182, 120, 170, 0.30)",
         },
       },
+
     },
   },
   plugins: {
