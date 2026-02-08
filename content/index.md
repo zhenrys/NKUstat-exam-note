@@ -54,8 +54,7 @@ title: Welcome to NKUstat-exam-note website
 
 
 ### 数理统计I
-> [[数理统计 数院学长 学习指南.pdf]]
-> [[数理统计 统院学长 课后题答案.pdf]]
+> [[数理统计 课后题答案.pdf]]
 
 
 ### 数理统计II
