@@ -43,7 +43,7 @@ title: Welcome to NKUstat-exam-note website
 
 
 ### 分布式统计计算
-> [[分布式-期末复习笔记.pdf]]
+> [[分布式-期末复习.pdf]]
 
 
 ### 数理统计I
