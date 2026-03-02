@@ -3,7 +3,6 @@ title: Welcome to NKUstat-exam-note website
 ---
 
 
-
 本网站是由南开大学众多同学自发整理的历年统计与数据科学学院与相关学院的考试试卷与复习资料汇总项目，主要收录整理在网页：[https://zhenrys.github.io/NKUstat-exam-note/](https://zhenrys.github.io/NKUstat-exam-note/) 以方便大家随时浏览。此外也同步开源至 github，欢迎使用邮件或 github投稿。
 
 希望把零散而宝贵的专业学习资源以开源方式沉淀下来，方便同学集中精力于知识学习本身、互相交流、共同进步。欢迎每位同学通过投稿、纠错、补充说明等方式参与，让来者受益。
@@ -36,7 +35,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 回归分析
 > [[2020-2021回归分析试题.pdf]]
-
+> 
+> [[2025-2026回归分析（回忆版）.pdf]]
 
 ### 数据挖掘与机器学习
 > [[2021-2022数据挖掘和机器学习(A卷)-试卷.pdf]]
@@ -44,6 +44,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 分布式统计计算
 > [[分布式-期末复习.pdf]]
+> 
+> [[2025-2026分布式（回忆版）.pdf]]
 
 
 ### 数理统计I
@@ -62,6 +64,8 @@ title: Welcome to NKUstat-exam-note website
 ### 随机过程
 > [[2022-2023随机过程期末A卷.pdf]]
 
+### 多元统计分析
+> [[2025-2026多元统计分析（回忆版）.pdf]]
 
 ### 数学分析
 （南开版教材 按章节 课后习题答案）
@@ -110,15 +114,16 @@ python 与大数据分析软件|
 **深度学习**|
 时间序列分析|
 实变函数|
-**多元统计分析**|
+多元统计分析|
 概率论 2|
 **泛函分析**|
 ...
 (加粗的尚未收录，期待投稿)
 
 # Contribution List
+石舒展、王震宇、张恒瑞
 
 
 
-
+（以上排名不分先后）
 
