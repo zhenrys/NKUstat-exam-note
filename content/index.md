@@ -121,7 +121,7 @@ python 与大数据分析软件|
 (加粗的尚未收录，期待投稿)
 
 # Contribution List
-子一、HenryZhang、...
+子一、王震宇、张恒瑞、...
 
 
 
