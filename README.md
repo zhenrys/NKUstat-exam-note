@@ -4,7 +4,7 @@
 
 - 邮件投稿请邮件联系：[zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)
 - 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！
-- 果相关资料侵犯了你的权益，请致信 [zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)，我们会在第一时间处理。
+- 如果相关资料侵犯了你的权益，请致信 [zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)，我们会在第一时间处理。
 - 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分版权归属内容原作者。
 - 本网站受南开大学数学科学学院试卷汇总项目启发：[https://www.zhangwp.com/share/nku-sms-exams](https://www.zhangwp.com/share/nku-sms-exams)
 
