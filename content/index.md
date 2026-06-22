@@ -72,6 +72,9 @@ title: Welcome to NKUstat-exam-note website
 >
 >[[Final-sample test(1).pdf]]
 
+### 概率论II
+>[[2025-2026概率论II期末原题.pdf]]
+
 ### 数理统计I
 >[数理统计笔记] https://github.com/CrabXieJW/myNotes
 >
@@ -217,4 +220,3 @@ python 与大数据分析软件|
 
 
 （以上排名不分先后）
-
