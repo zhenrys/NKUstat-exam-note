@@ -100,6 +100,8 @@ title: Welcome to NKUstat-exam-note website
 > [[2022-2023随机过程期末A卷.pdf]]
 > 
 > [[2024-2025随机过程期末（回忆版）.pdf]]
+>
+> [[2025-2026随机过程期末.pdf]]
 
 
 ### 多元统计分析
