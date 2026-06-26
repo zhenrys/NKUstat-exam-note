@@ -42,6 +42,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 预测分析
 > [[24春预测分析.png]]
+>
+> [[2025-2026预测分析期末（回忆版）.pdf]]
 
 
 ### 回归分析
