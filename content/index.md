@@ -25,6 +25,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 时间序列分析
 > [[2022-2023时间序列分析A卷.pdf]]
+> 
+> [[2026-2027时间序列分析回忆版.pdf]]
 
 
 ### 数据库
@@ -44,6 +46,8 @@ title: Welcome to NKUstat-exam-note website
 > [[24春预测分析.png]]
 >
 > [[2025-2026预测分析期末（回忆版）.pdf]]
+> 
+> [[2023届预测分析期末考试（回忆版）.pdf]]
 
 
 ### 回归分析
@@ -81,6 +85,7 @@ title: Welcome to NKUstat-exam-note website
 
 ### 概率论II
 >[[2025-2026概率论II期末原题.pdf]]
+> [[2026-2027概率论II试卷回忆.pdf]]
 
 ### 数理统计I
 >[数理统计笔记] https://github.com/CrabXieJW/myNotes
@@ -101,6 +106,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 统计与大数据分析软件
 > [[2022-2023统计与大数据分析软件期末试题.pdf]]
+> 
+> [[2025-2026统计与大数据分析软件期末试题（回忆版）.pdf]]
 
 
 ### 随机过程
@@ -110,6 +117,10 @@ title: Welcome to NKUstat-exam-note website
 >
 > [[2025-2026随机过程期末.pdf]]
 
+> 
+> [[2025-2026随机过程期末（回忆版）(1).pdf]]
+> 
+> [[25-26春季学期随机过程期末考试回忆版.pdf]]
 
 ### 多元统计分析
 > [[2025-2026多元统计分析（回忆版）.pdf]]
@@ -125,6 +136,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 信息论基础
 > [[2025-2026信息论基础期末（回忆版）.pdf]]
+
+
 
 
 ### 数学分析
@@ -228,7 +241,7 @@ python 与大数据分析软件|
 (加粗的尚未收录，期待投稿)
 
 # Contribution List
-子一、王震宇、张恒瑞、韦承成、晚起鱼、HS-stat、盐粒、Eurekaimer、Sunrise、乔彦博...
+子一、王震宇、张恒瑞、韦承成、晚起鱼、HS-stat、盐粒、Eurekaimer、Sunrise、乔彦博、Kizuna、皮皮、刘雨嘉...
 
 
 
