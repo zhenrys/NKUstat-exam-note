@@ -44,6 +44,8 @@ title: Welcome to NKUstat-exam-note website
 
 ### 预测分析
 > [[24春预测分析.png]]
+>
+> [[2025-2026预测分析期末（回忆版）.pdf]]
 > 
 > [[2023届预测分析期末考试（回忆版）.pdf]]
 
@@ -82,6 +84,7 @@ title: Welcome to NKUstat-exam-note website
 >[[Final-sample test(1).pdf]]
 
 ### 概率论II
+>[[2025-2026概率论II期末原题.pdf]]
 > [[2026-2027概率论II试卷回忆.pdf]]
 
 ### 数理统计I
@@ -111,6 +114,9 @@ title: Welcome to NKUstat-exam-note website
 > [[2022-2023随机过程期末A卷.pdf]]
 > 
 > [[2024-2025随机过程期末（回忆版）.pdf]]
+>
+> [[2025-2026随机过程期末.pdf]]
+
 > 
 > [[2025-2026随机过程期末（回忆版）(1).pdf]]
 > 
@@ -240,4 +246,3 @@ python 与大数据分析软件|
 
 
 （以上排名不分先后）
-
